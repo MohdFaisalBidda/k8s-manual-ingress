@@ -1,1 +1,0 @@
-How to deploy a full stack app with a single load balancer on a k8s cluster without using ingress/ingress-controller with db only accessible internally
